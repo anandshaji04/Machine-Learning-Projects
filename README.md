@@ -16,8 +16,9 @@ To run this project, you need:
 - Google Colab Notebook
 - Required libraries: scikit-learn, matplotlib, pandas, numpy
 
-##Work Flow Diagram
+## Work Flow Diagram
+
 ![Workflow](https://github.com/anandshaji04/house_price_prediction-ML/assets/95977186/4b02108c-6cbf-44f2-9200-3183a59b1907)
 
-##Contributions
+## Contributions
 Contributions are welcome! If you want to contribute to this project.
